@@ -1,5 +1,5 @@
 <img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
-<h1 align="center">Hi 👋, I'm Jay Prakash Lohar</h1>
+<h1 align="center">Hi 👋, I'm Rajesh Ranjan</h1>
 <h3 align="center">Passionate about implementing and launching new projects. I also possess the ability to translate business requirements into technical solutions. I am looking to start my career as a web developer driven by technology.</h3
   <hr/>
   <br>
@@ -15,9 +15,9 @@
 
 - 💬 Ask me about MERN stack
 
-- 📫 How to reach me <b>loharjayprakash4@gmail.com</b>
+- 📫 How to reach me <b>Sharmarajeshranjan2000@gmail.com</b>
 
-- 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1X7UuBPTPS6vFaVoeeuZB2jd0NwME2PKW/view?usp=sharing" target="_blank">RESUME</a></b>
+- 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1PIfe_XFjBqslArfNUrG9b0YTv5vfv4fX/view?usp=sharing" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - I am creative person and I love nature!
    <hr>
