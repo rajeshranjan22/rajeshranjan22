@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning React, Redux, MongoDB, Express
 
-- 👨‍💻 All of my projects are available at <b><a href="https://jayprakashlohar.github.io" target="_blank">PORTFOLIO</a></b>
+- 👨‍💻 All of my projects are available at <b><a href="https://rajeshranjan22.github.io" target="_blank">PORTFOLIO</a></b>
 
 - 💬 Ask me about MERN stack
 
@@ -24,9 +24,9 @@
   
  
   <div align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jayprakashlohar&label=Profile%20views&color=0e75b6&style=flat" alt="jayprakashlohar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajeshranjan22&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshranjan22" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayprakashlohar" alt="jayprakashlohar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="rajeshranjan22" alt="rajeshranjan22" /></a> </p>
   </div>
     <br />
      <br />
@@ -70,20 +70,20 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/jayprakashlohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayprakashlohar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajeshranjan22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeshranjan22" height="30" width="40" /></a>
 </p>
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayprakashlohar&show_icons=true&locale=en&layout=compact" alt="jayprakashlohar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshranjan22&show_icons=true&locale=en&layout=compact" alt="rajeshranjan22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayprakashlohar&show_icons=true&locale=en" alt="jayprakashlohar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshranjan22&show_icons=true&locale=en" alt="rajeshranjan22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayprakashlohar&" alt="jayprakashlohar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshranjan22&" alt="rajeshranjan22" /></p>
    <hr>
    </p>
   
-<p align="center"<a href="#"><img alt="Jay" src="https://activity-graph.herokuapp.com/graph?username=jayprakashlohar&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Jay" src="https://activity-graph.herokuapp.com/graph?username=rajeshranjan22&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
     <hr>
    <p align="center">
     <i>Take a look at my repositories and let's get in touch!</i><br><br>
