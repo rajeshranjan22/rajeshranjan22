@@ -7,9 +7,9 @@
   <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
 
 
-- 🔭 I’m currently working on MERN Stack
+- 🔭 I’m currently preparing for placements!
 
-- 🌱 I’m currently learning React, Redux, MongoDB, Express
+- 🌱 I’m currently learning MERN Stack
 
 - 👨‍💻 Know more about me <b><a href="https://rajeshranjan22.github.io" target="_blank">PORTFOLIO</a></b>
 
@@ -18,9 +18,8 @@
 - 📫 How to reach me <b>Sharmarajeshranjan2000@gmail.com</b>
 
 - 📄 Check out my <b><a href="https://drive.google.com/file/d/1PIfe_XFjBqslArfNUrG9b0YTv5vfv4fX/view?usp=sharing" target="_blank">RESUME</a></b>
-
-- ⚡ Fun fact - I am creative person and I love nature!
-   <hr>
+  
+  <hr>
   
  
   <div align="center">
