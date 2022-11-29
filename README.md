@@ -18,9 +18,9 @@
 - 📫 How to reach me <b>Sharmarajeshranjan2000@gmail.com</b>
 
 - 📄 Check out my <b><a href="https://drive.google.com/file/d/1PIfe_XFjBqslArfNUrG9b0YTv5vfv4fX/view?usp=sharing" target="_blank">RESUME</a></b>
-  
-  
-  
+ 
+- ⚡ Fun fact - I am creative person and I love My Country !
+
   
   <hr>
   
