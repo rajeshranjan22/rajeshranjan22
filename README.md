@@ -4,7 +4,7 @@
   <hr/>
   <br>
   <br/>
-  <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300" height="280" align="right" />
 
 
 - 🔭 I’m currently preparing for placements!
@@ -19,7 +19,7 @@
 
 - 📄 Check out my <b><a href="https://drive.google.com/file/d/1PIfe_XFjBqslArfNUrG9b0YTv5vfv4fX/view?usp=sharing" target="_blank">RESUME</a></b>
  
-- ⚡ Fun fact - I am creative person and I love My Country !
+- ⚡ Fun fact - I am a creative person and I love My Country !
 
   
   <hr>
