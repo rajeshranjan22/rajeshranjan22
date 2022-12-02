@@ -85,7 +85,7 @@
    <hr>
    </p>
   
-<p align="center"<a href="#"><img alt="Jay" src="https://activity-graph.herokuapp.com/graph?username=rajeshranjan22&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="rajesh" src="https://activity-graph.herokuapp.com/graph?username=rajeshranjan22&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
     <hr>
    <p align="center">
     <i>Take a look at my repositories and let's get in touch!</i><br><br>
