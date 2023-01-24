@@ -87,6 +87,8 @@
   
 <!--   
 <p align="center"<a href="#"><img alt="rajesh" src="https://activity-graph.herokuapp.com/graph?username=rajeshranjan22&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
+   
+   </p>
   
   <div>
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
