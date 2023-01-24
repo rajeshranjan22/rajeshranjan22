@@ -81,7 +81,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshranjan22&show_icons=true&locale=en" alt="rajeshranjan22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshranjan22&" alt="rajeshranjan22" /></p>
+<p><img align="center" background="black" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshranjan22&" alt="rajeshranjan22" /></p>
    <hr>
    </p>
 <!--   
