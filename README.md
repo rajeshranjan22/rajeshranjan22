@@ -75,6 +75,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/rajesh-ranjan-sharma-17aa82236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeshranjan22" height="30" width="40" /></a>
 </p>
+   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
    
 <p align="center">      
   <a href="https://github.com/rajeshranjan22/github-readme-stats"><img alt="rajeshranjan22" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshranjan22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -90,7 +91,7 @@
 <p align="center"<a href="#"><img alt="rajesh" src="https://activity-graph.herokuapp.com/graph?username=rajeshranjan22&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
    
    <div>
-  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+  
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeshranjan22&theme=github_dark" alt="rajeshranjan22" align = "center"/></p>
 </div>
     <hr>
