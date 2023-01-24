@@ -82,11 +82,11 @@
   <a href="https://github.com/rajeshranjan22/github-readme-stats"><img alt="rajeshranjan22" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshranjan22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>
   
-![Rajesh Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshranjan22&show_icons=true&theme=dark)
-
 <p align="center">                                                                                                 
     <a href="https://github.com/rajeshranjan22/github-readme-stats"><img alt="rajeshranjan22" src="https://github-readme-stats.vercel.app/api?username=rajeshranjan22&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="rajeshranjan22" /></a>
     </p> 
+   
+   <span>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshranjan22&show_icons=true&theme=dark&bg_color=0D1117" alt="rajeshranjan22" /></span>
   
 <!--   
 <p align="center"<a href="#"><img alt="rajesh" src="https://activity-graph.herokuapp.com/graph?username=rajeshranjan22&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
