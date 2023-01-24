@@ -93,7 +93,7 @@
    
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeshranjan22&theme=github_dark&bg_color=0D1117" alt="rajeshranjan22" align = "center"/></p>
 
-    <hr>
+    
    <p align="center">
     <i>Take a look at my repositories and let's get in touch!</i><br><br>
     <code>
