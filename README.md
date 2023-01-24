@@ -88,8 +88,8 @@
 <!--   
 <p align="center"<a href="#"><img alt="rajesh" src="https://activity-graph.herokuapp.com/graph?username=rajeshranjan22&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
    
-   </p>
-  
+  <hr>
+   
   <div>
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeshranjan22&theme=github_dark" alt="rajeshranjan22" align = "center"/></p>
