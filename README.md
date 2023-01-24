@@ -77,7 +77,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshranjan22&show_icons=true&locale=en&layout=compact" alt="rajeshranjan22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshranjan22&show_icons=true&locale=en" alt="rajeshranjan22" /></p>
+![Rajesh Ranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshranjan22&show_icons=true&theme=dark)
 
 <span>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshranjan22&show_icons=true&theme=dark" alt="rajeshranjan22" /></span>
    <hr>
