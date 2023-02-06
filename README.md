@@ -91,10 +91,10 @@
 <!--   
 <p align="center"<a href="#"><img alt="rajesh" src="https://activity-graph.herokuapp.com/graph?username=rajeshranjan22&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
    
-   <div>
+<!--    <div>
   
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeshranjan22&theme=github_dark" alt="rajeshranjan22" align = "center"/></p>
-</div>
+</div> -->
     <hr>
    <p align="center">
     <i>Take a look at my repositories and let's get in touch!</i><br><br>
