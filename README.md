@@ -13,7 +13,7 @@
 
 - 👨‍💻 Know more about me <b><a href="https://rajeshranjan22.github.io" target="_blank">PORTFOLIO</a></b>
 
-- 💬 Ask me about  HTML, CSS, React, Node.js , Express.js , JavaScript
+- 💬 Ask me about  HTML, CSS, JavaScript, React, Node.js , Express.js  
 
 - 📫 How to reach me <b>Sharmarajeshranjan2000@gmail.com</b>
 
