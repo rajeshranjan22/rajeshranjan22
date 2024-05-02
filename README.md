@@ -13,7 +13,7 @@
 
 - 💬 Ask me about React, Javascript , HTML,CSS ,Chakra UI ,
 
-  Node JS , Express , MongoDB ,Redux
+                   Node JS , Express , MongoDB ,Redux
 
 - 📫 How to reach me <b>Sharmarajeshranjan2000@gmail.com</b>
 
