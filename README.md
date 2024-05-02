@@ -7,13 +7,11 @@
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="420" height="300" align="right" />
 
 
-- 🔭 I’m currently preparing for placements!
-
 - 🌱 I’m currently learning MERN Stack
 
 - 👨‍💻 Know more about me <b><a href="https://rajeshranjan22.github.io" target="_blank">PORTFOLIO</a></b>
 
-- 💬 Ask me about  HTML, CSS, JavaScript, React, Node.js , Express.js  
+- 💬 Ask me about React, Javascript , HTML,CSS ,Chakra UI , Node JS , Express , MongoDB ,Redux
 
 - 📫 How to reach me <b>Sharmarajeshranjan2000@gmail.com</b>
 
