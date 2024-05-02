@@ -8,6 +8,8 @@
 
 
 - 🌱 I’m currently learning MERN Stack
+  
+- 🔭 I’m currently working on MERN Stack
 
 - 👨‍💻 Know more about me <b><a href="https://rajeshranjan22.github.io" target="_blank">PORTFOLIO</a></b>
 
