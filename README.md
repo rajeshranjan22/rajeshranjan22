@@ -11,10 +11,7 @@
 
 - 👨‍💻 Know more about me <b><a href="https://rajeshranjan22.github.io" target="_blank">PORTFOLIO</a></b>
 
-💬 Ask me about React, Javascript , HTML,CSS ,Chakra UI , 
-<br>
-
-      Node JS , Express , MongoDB ,Redux
+- 💬  Ask me about HTML, CSS, Javascript, React, Redux  
 
 - 📫 How to reach me <b>Sharmarajeshranjan2000@gmail.com</b>
 
