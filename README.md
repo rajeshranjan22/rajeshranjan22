@@ -10,10 +10,12 @@
 - 🌱 I’m currently learning MERN Stack
   
 - 🔭 I’m currently working on MERN Stack
+  
+-  💬  Ask me about HTML, CSS, Javascript, React, Redux
 
 - 👨‍💻 Know more about me <b><a href="https://rajeshranjan22.github.io" target="_blank">PORTFOLIO</a></b>
-
-- 💬  Ask me about HTML, CSS, Javascript, React, Redux  
+  
+- 👨‍💻 All of my projects are available at <b><a href="https://github.com/rajeshranjan22" target="_blank">GITHUB</a></b>
 
 - 📫 How to reach me <b>Sharmarajeshranjan2000@gmail.com</b>
 
