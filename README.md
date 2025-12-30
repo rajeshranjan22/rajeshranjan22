@@ -1,6 +1,6 @@
 <img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
 <h1 align="center">Hi 👋, I'm Rajesh Ranjan</h1>
-<h3 align="center">An enthusiastic fresher & highly motivated Developer having the ability to write efficient code. Eager to learn new technologies and methodologies. Seeking a position to utilize my skills and abilities to start up my career that offers professional growth while being resourceful, innovative and flexible & by working in a challenging position where I will have opportunities to utilize my experience in projects..</h3
+<h3 align="center">An enthusiastic and highly motivated software professional, eager to learn new technologies and methodologies. Seeking a position to utilize my skills and abilities in a role that offers professional growth while being resourceful, innovative, and flexible. Looking for a challenging position where I will have opportunities to contribute my experience in projects.</h3
   <hr/>
   <br>
   <br/>
