@@ -11,7 +11,7 @@
   
 - 🔭 I’m currently working on MERN Stack
   
--  💬  Ask me about HTML, CSS, Javascript, React, Redux
+-  💬 Expertise in HTML | CSS | JavaScript | React | Redux | React Native | Next.js | Tailwind CSS | DSA
 
 - 👨‍💻 Know more about me <b><a href="https://rajeshranjan22.github.io" target="_blank">PORTFOLIO</a></b>
   
