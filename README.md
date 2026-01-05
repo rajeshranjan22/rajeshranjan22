@@ -11,7 +11,7 @@
   
 - 🔭 I’m currently working on MERN Stack
   
--  💬 Expertise in HTML | CSS | JavaScript | React | Redux | React Native | Next.js | Tailwind CSS | DSA
+-  💬 Expertise in HTML | CSS | JavaScript | Typescript | React | React Native | Next.js | Tailwind CSS | DSA
 
 - 👨‍💻 Know more about me <b><a href="https://rajeshranjan22.github.io" target="_blank">PORTFOLIO</a></b>
   
@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
 <img src = "https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="tailwindcss"/>
 <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-<img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+<img src="https://img.shields.io/badge/SCSS-%23CD6799.svg?style=for-the-badge&logo=sass&logoColor=white" align="center" alt="scss" />
   
 </div>
  <br/>
