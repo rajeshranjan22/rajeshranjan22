@@ -76,11 +76,12 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
 <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
+<br />
+<br />
+<hr/>
 
-     <br />
-     <br />
-   <hr/>
-   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+<p align='center'><b> :balance_scale: Github Profile Details</b></p>
+<br/>
    
 <p align="center">      
   <a href="https://github.com/rajeshranjan22/github-readme-stats"><img alt="rajeshranjan22" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshranjan22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
