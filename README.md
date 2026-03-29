@@ -117,7 +117,10 @@
 ---
 
 <p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i><br><br>
+  <!-- <i>Take a look at my repositories and let's get in touch!</i><br><br> -->
+  <i>⭐️ If you like my work, consider giving a star to my repositories!</i><br><br>
+    
+
   <img src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
 </p>
 
