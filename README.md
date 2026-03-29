@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 <p>
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" height="200" width="450" align="right" style="margin-left:20px;" />
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" height="200" width="400" align="right" style="margin-left:20px;" />
 </p>
 
 - 👨‍💻 Full Stack Developer specializing in **MERN Stack**  
