@@ -92,11 +92,18 @@
 
 ---
 
-## 🧠 Most Used Languages
+## 🧠 GitHub Stats & Most Used Languages
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshranjan22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
+</p> -->
+
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajeshranjan22&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" height="180" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajeshranjan22&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF&langs_count=8" height="180" alt="Most Used Languages" />
+</div>
 
 ---
 
