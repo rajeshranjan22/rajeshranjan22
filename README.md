@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C7B7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rajesh+Ranjan;Full+Stack+Developer+💻;Building+Scalable+Web+Apps;Open+to+Opportunities+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rajesh+Ranjan;Full+Stack+Developer+💻;Building+Scalable+Web+Apps;Open+to+Opportunities+🚀" />
 </p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=rajeshranjan22">
-    <img src="https://komarev.com/ghpvc/?username=rajeshranjan22&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=rajeshranjan22&label=Profile%20Views&color=7aa2f7&style=flat" />
   </a>
 </p>
 
@@ -32,13 +32,13 @@
 
 <p align="center">
   <a href="mailto:Sharmarajeshranjan2000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7"/>
   </a>
   <a href="https://rajeshranjan22.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=firefox&logoColor=bb9af7"/>
   </a>
   <a href="https://drive.google.com/file/d/1PIfe_XFjBqslArfNUrG9b0YTv5vfv4fX/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-1a1b26?style=for-the-badge&logo=googledrive&logoColor=7dcfff"/>
   </a>
 </p>
 
@@ -48,74 +48,66 @@
 
 <div align="center">
 
-<h3>Frontend</h3>
+<h3 style="color:#7aa2f7;">Frontend</h3>
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-<img src="https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCSS-%23CD6799.svg?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-1a1b26?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/css3-1a1b26?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/javascript-1a1b26?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
 
 <br/><br/>
 
-<h3>Backend</h3>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Mongoose-%2300f.svg?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-%23F7DF1E.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tailwind-1a1b26?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+<img src="https://img.shields.io/badge/Chakra-1a1b26?style=for-the-badge&logo=chakraui&logoColor=4ED1C5"/>
+<img src="https://img.shields.io/badge/SCSS-1a1b26?style=for-the-badge&logo=sass&logoColor=CD6799"/>
 
 <br/><br/>
 
-<h3>Tools</h3>
+<h3 style="color:#bb9af7;">Backend</h3>
 
-<img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-1a1b26?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-1a1b26?style=for-the-badge&logo=express&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/MongoDB-1a1b26?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+<img src="https://img.shields.io/badge/JWT-1a1b26?style=for-the-badge&logo=jsonwebtokens&logoColor=F7DF1E" />
+
+<br/><br/>
+
+<h3 style="color:#9ece6a;">Tools</h3>
+
+<img src="https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=f44d27" />
+<img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Postman-1a1b26?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/Figma-1a1b26?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 
 </div>
 
 ---
 
-## 🧠 GitHub Stats & Most Used Languages
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshranjan22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p> -->
-
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajeshranjan22&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" height="180" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajeshranjan22&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF&langs_count=8" height="180" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajeshranjan22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bb9af7&text_color=c0caf5" height="180"/>
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajeshranjan22&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5" height="180"/>
 </div>
 
 ---
 
-## 🔥 GitHub Streak Stats
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshranjan22&theme=tokyonight&hide_border=true" />
-</p>
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=rajeshranjan22&theme=tokyonight&hide_border=true" />
+</p> -->
+
+ <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshranjan22&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bb9af7&fire=f7768e&currStreakLabel=c0caf5" />
+</p> 
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshranjan22&theme=tokyo-night&hide_border=true" />
@@ -124,11 +116,8 @@
 ---
 
 <p align="center">
-  <!-- <i>Take a look at my repositories and let's get in touch!</i><br><br> -->
-  <i>⭐️ If you like my work, consider giving a star to my repositories!</i><br><br>
-    
-
-  <img src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+  <i style="color:#7aa2f7;">⭐️ If you like my work, consider giving a star!</i><br><br>
+  <img src="https://img.shields.io/badge/Thanks-1a1b26?style=for-the-badge&logo=github&logoColor=bb9af7"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
