@@ -35,7 +35,6 @@
     <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7"/>
   </a>
 
-  <!--
   
   <a href="https://rajeshranjan22.github.io"> 
     <img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=firefox&logoColor=bb9af7"/>
@@ -44,7 +43,6 @@
     <img src="https://img.shields.io/badge/Resume-1a1b26?style=for-the-badge&logo=googledrive&logoColor=7dcfff"/>
   </a>
 
-  -->
 </p>
 
 ---
